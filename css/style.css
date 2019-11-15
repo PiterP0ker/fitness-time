@@ -1326,6 +1326,10 @@ h6 {
   right: -30px;
 }
 
+.ba-pricing-box__price--lighter:after {
+	background-color: #fff;
+ }
+
 .ba-pricing-box__price span {
   font-size: 36px;
   font-weight: 700;
